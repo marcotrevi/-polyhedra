@@ -1,1 +1,1 @@
-# -polyhedra
+# polyhedra
